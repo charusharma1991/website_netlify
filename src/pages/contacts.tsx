@@ -16,7 +16,7 @@ function Contacts(){
                             <img/>
                         </div>
                         <div>
-                            <p>Charu Sharma</p>
+                            <p><strong>Charu Sharma</strong></p>
                             <p>Assistant Professor</p>
                             <p>International Institute of Information Technology (IIIT) Hyderabad</p>
                             <p>kohli reserach block, Machine Learning Lab</p>
