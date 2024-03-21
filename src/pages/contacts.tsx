@@ -19,8 +19,8 @@ function Contacts(){
                             <p><strong>Charu Sharma</strong></p>
                             <p>Assistant Professor</p>
                             <p>International Institute of Information Technology (IIIT) Hyderabad</p>
-                            <p>kohli reserach block, Machine Learning Lab</p>
-                            <p>3rd floor, office: F17</p>
+                            <p>Kohli Reserach Block, Machine Learning Lab</p>
+                            <p>3rd floor, Office: F17</p>
                             <p>Email: charu (dot) sharma (at) iiit (dot) ac (dot) in</p>
                             <p>
                                 <strong className="contactsIcons">
