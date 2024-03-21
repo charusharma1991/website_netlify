@@ -13,11 +13,6 @@ function Home(){
                     My <strong>research interests</strong> include Geometric Machine/ Deep Learning: 3D Point Clouds, 3D scene understanding, 3D+LLM, Graph/Temporal Graphs/Knowledge Graph Representation Learning.
                 </p>
                 <p>&nbsp;</p>
-                <div className="researchRelatedSocials">
-                    <p><img src = "https://mll.iiit.ac.in/wp-content/uploads/2020/01/cropped-2-1.png"/> Learn more about the <a href="https://mll.iiit.ac.in/"><strong>Machine Learning Lab</strong></a></p>
-                </div>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
                 <span style={{color:'blue'}}>I'm looking for MS/ PhD students for Monsoon 2024. Write to me with your CV and cover letter.</span> <span style={{color:'red'}}>I'm not taking interns and part-time students.</span>
 
                 <p>
