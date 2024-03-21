@@ -18,6 +18,8 @@ function Home(){
                 </div>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
+                <li><span style={{color:'blue'}}>I'm looking for MS/ PhD students for Monsoon 2024. Write to me with your CV and cover letter.</span> <span style={{color:'red'}}>I'm not taking interns and part-time students.</span></li>
+
                 <p>
                     <strong style={{fontSize:'20px'}}>Recent!</strong>
                 </p>
