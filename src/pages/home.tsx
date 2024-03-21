@@ -4,7 +4,7 @@ function Home(){
     return (
         <div className="homeContainer" style={{minHeight:"100vh"}}>
             <div className="homeContainerIntro">
-                <a><img src="CharuSharmaProfile.jpeg" alt="Charu-Sharma-Profile"/></a>
+                <a><img src="IMG_20231102_182151.jpeg" alt="Charu-Sharma-Profile"/></a>
                 <p>
                     I'm an Assistant Professor in <a href="https://mll.iiit.ac.in/"><strong>Machine Learning Lab</strong></a> at International Institute of Information Technology Hyderabad (IIIT-H).
                     <br/><br/> As a PhD student, I have worked in <a href="https://krama.cse.iith.ac.in/index.html"><strong>Krama Lab</strong></a> under the guidance of <a href="https://manukaul.github.io/"><strong>Dr. Manohar Kaul</strong></a> in the department of Computer Science & Engineering at Indian Institute of Technology (IIT) Hyderabad.
