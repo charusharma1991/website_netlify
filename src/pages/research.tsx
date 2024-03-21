@@ -12,6 +12,7 @@ function Research(){
             <div className="section color-1">
                 <div className="sectionContainer researchContent">
                     <div>
+                        <p><span style={{fontWeight:'700', fontSize:'18px'}}>Conferences/ Journals</span></p>
                         <div className="alternateBGColors">
                             <p>Dhaval Taunk, Lakshya Khanna, Siri Venkata Pavan Kumar Kandru, Vasudeva Varma, Charu Sharma and Makarand Tapaswi, “GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering", <span style={{textDecoration:'underline'}}>NLP4KGc workshop</span>, The Web Conference (<span style={{fontWeight:'700'}}>WWW</span>), 2023. [<a href="https://dl.acm.org/doi/pdf/10.1145/3543873.3587651">pdf</a>]</p>
                             <p>Anmol Goel, Vanshpreet Singh Kohli, Shreyansh Agarwal, Saptarshi Ghosh, Charu Sharma and Ponnurangam Kumaraguru, “The Curious Case of Delayed Recognition in the Indian Supreme Court”, <a href="https://sites.google.com/view/caoac-23/home">CAoAC workshop</a>, International Conference on Artificial Intelligence and Law (<span style={{fontWeight:'700'}}>ICAIL</span>), 2023.</p>
