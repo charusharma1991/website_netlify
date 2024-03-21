@@ -12,9 +12,10 @@ function Experience(){
             <div className="section color-1">
                 <div className="sectionContainer experienceContent">
                     <ol>
+                        <li>Assitant Professor, ML Lab, IIIT Hyderabad (June 2021 - Present)</li>
                         <li>Research visit to Hebei Normal University, Shijiazhuang, China (May 2019 - July 2019)</li>
                         <li>
-                            Course TA:
+                            PhD Scholar: Course TA:
                             <ul>
                                 <li>CS3563: Introduction to DBMS-II (Spring 2017, 2018, 2019, 2020, 2021)</li>
                                 <li>CS3550: Introduction to DBMS-I (Fall 2017, 2018, 2019, 2020)</li>
