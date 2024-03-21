@@ -18,7 +18,8 @@
     "bootstrap": "^5.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-twitter-embed": "^4.0.4"
+    "react-twitter-embed": "^4.0.4",
+    "three": "^0.160.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",

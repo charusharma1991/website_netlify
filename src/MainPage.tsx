@@ -7,6 +7,7 @@ import Teaching from "./pages/teaching"
 import Contacts from "./pages/contacts"
 import Experience from "./pages/experience"
 import Others from "./pages/others"
+import Projects from "./pages/projects"
 
 function GetPage(){
     let component;
@@ -40,6 +41,9 @@ function GetPage(){
             break
         case "/others":
             component = <Others/>
+            break
+        case "/projects":
+            component = <Projects/>
             break
     }
     return  <>{component}</>
