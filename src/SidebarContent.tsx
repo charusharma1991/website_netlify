@@ -20,12 +20,12 @@ function SidebarContent(){
                         <p>Home</p>
                     </a>
                 </li>
-                <li>
+                {/*<li>
                     <a href="/projects">
                         <i style={{width:'50px'}} className="fa fa-project-diagram"></i>
                         <p>Projects</p>
                     </a>
-                </li>
+                </li>*/}
                 {/* <li>
                     <a href="/publications">
                         <i style={{width:'50px'}} className="fa fa-graduation-cap"></i>
