@@ -9,7 +9,7 @@ function Home(){
                     I'm an Assistant Professor in <a href="https://mll.iiit.ac.in/"><strong>Machine Learning Lab</strong></a> at International Institute of Information Technology Hyderabad (IIIT-H).
                     <br/><br/> As a PhD student, I have worked in <a href="https://krama.cse.iith.ac.in/index.html"><strong>Krama Lab</strong></a> under the guidance of <a href="https://manukaul.github.io/"><strong>Dr. Manohar Kaul</strong></a> in the department of Computer Science & Engineering at Indian Institute of Technology (IIT) Hyderabad.
                     <br/> I completed my M.Tech in Artificial Intelligence from University of Hyderabad under the guidance of Prof. Arun K. Pujari. Prior to this, I worked as a Junior Software Engineer under Prof. Deepak B. Phatak at Indian Institute of Technology (IIT) Bombay.
-                    My interests include Geometric Machine/ Deep Learning (graphs and point clouds), Topological Data Analysis.
+                    My interests include Geometric Machine/ Deep Learning: 3D Point Clouds, 3D scene understanding, 3D+LLM, Graph/Temporal Graphs/Knowledge Graph Representation Learning.
                 </p>
                 <p>&nbsp;</p>
                 <div className="researchRelatedSocials">
@@ -21,7 +21,8 @@ function Home(){
                     <strong style={{fontSize:'20px'}}>Recent!</strong>
                 </p>
                 <ul>
-                    <li><span style={{color:'blue'}}>I'm looking for MS/ PhD students for Monsoon 2024. Write to me with your CV/resume and cover letter.</span> <span style={{color:'red'}}>I'm not taking interns and part-time students.</span></li>
+                    <li><span style={{color:'blue'}}>I'm looking for MS/ PhD students for Monsoon 2024. Write to me with your CV and cover letter.</span> <span style={{color:'red'}}>I'm not taking interns and part-time students.</span></li>
+                    <li>Jan, Feb 2024: Two papers accepted in the field of Robotics in IEEE Access and IEEE Sensors Letters, 2024.</li>
                     <li>August 15, 2023: Paper titled "Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation" accepted at WACV 2024.</li>
                     <li>Two workshop papers have been accepted at WWW'23 and ICAIL'23.</li>
                     <li>January 22, 2023: Paper with Nidhi, Jushaan, Raghava, Niharika and PK accepted in EACL 2023 Conference Findings. Title: "JobXMLC: EXtreme Multi-Label Classification of Job Skills with Graph Neural Networks".</li>
