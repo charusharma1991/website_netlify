@@ -22,7 +22,7 @@ function Home(){
                     <strong style={{fontSize:'20px'}}>Recent!</strong>
                 </p>
                 <ul>
-                    <li><span style={{color:'blue'}}>I'm looking for MS/ PhD students for Monsoon 2023. Write to me with your CV/resume and cover letter only if you want to apply for a full-time position.</span> <span style={{color:'red'}}>I'm not taking interns and part-time students.</span></li>
+                    <li><span style={{color:'blue'}}>I'm looking for MS/ PhD students for Monsoon 2024. Write to me with your CV/resume and cover letter.</span> <span style={{color:'red'}}>I'm not taking interns and part-time students.</span></li>
                     <li>August 15, 2023: Paper titled "Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation" accepted at WACV 2024.</li>
                     <li>Two workshop papers have been accepted at WWW'23 and ICAIL'23.</li>
                     <li>January 22, 2023: Paper with Nidhi, Jushaan, Raghava, Niharika and PK accepted in EACL 2023 Conference Findings. Title: "JobXMLC: EXtreme Multi-Label Classification of Job Skills with Graph Neural Networks".</li>
