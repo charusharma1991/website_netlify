@@ -19,7 +19,12 @@ function Teaching(){
                             <li>SVM in SMAI course.</li>
                         </ol>
                         <p>&nbsp;</p>
-                        <h3>3D Vision Summer School 2022 at IIIT Hyderabad:</h3>
+                        <h3>Two-week Executive Training Program on AIML</h3>
+                        <ul>
+                            <li>Lecture on "Deep Learning for (Molecular) Graphs"</li>
+                        </ul>
+                        <p>&nbsp;</p>
+                        <h3>3D Vision Summer School 2022, 2023 at IIIT Hyderabad:</h3>
                         <ol>
                             <li>Volumetric and Point Cloud Representation Learning</li>
                             <li>3D Deep Learning using Graphs and Meshes</li>
