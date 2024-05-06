@@ -305,7 +305,12 @@ ul #Navigation{
 .researchContent p{
     margin-bottom: 25px;
 }
-
+.studentContent a{
+    color: black;
+}
+.studentContent p{
+    margin-bottom: 25px;
+}
 .experienceContent li{
     margin-bottom: 15px;
     font-size: 18px;
