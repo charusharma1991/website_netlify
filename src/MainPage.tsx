@@ -1,6 +1,7 @@
 import Home from "./pages/home"
 import Publications from "./pages/publications"
 import Research from "./pages/research"
+import Students from "./pages/students"
 import Media from "./pages/media"
 import Resources from "./pages/resources"
 import Teaching from "./pages/teaching"
@@ -23,6 +24,9 @@ function GetPage(){
             break
         case "/research":
             component = <Research/>
+            break
+        case "/students":
+            component = <Students/>
             break
         case "/media":
             component = <Media/>
