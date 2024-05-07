@@ -39,7 +39,7 @@ function SidebarContent(){
                     </a>
                 </li>
                 <li>
-                    <a href="/stuents">
+                    <a href="/students">
                         <i style={{width:'50px'}} className="fa fa-file-text" aria-hidden="true"></i>
                         <p>Students</p>
                     </a>
