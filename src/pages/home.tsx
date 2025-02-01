@@ -19,7 +19,8 @@ function Home(){
                     <strong style={{fontSize:'20px'}}>Recent!</strong>
                 </p>
                 <ul>
-                    <li>August 2024: Paper titled "Adversarial Learning based Knowledge Distillation on 3D Point Clouds" accepted at WACV 2025.</li>
+                    <li>October 2024: Paper titled "Higher Order Structures For Graph Explanations" accepted at AAAI 2025.</li>
+                    <li>October 2024: Two papers accepted at WACV 2025.</li>
                     <li>Jan, Feb 2024: Two papers accepted in the field of Robotics in IEEE Access and IEEE Sensors Letters, 2024.</li>
                     <li>August 15, 2023: Paper titled "Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation" accepted at WACV 2024.</li>
                     <li>Two workshop papers have been accepted at WWW'23 and ICAIL'23.</li>
