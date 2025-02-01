@@ -39,8 +39,7 @@ function Research(){
                         <ul>
                             <li><span style={{fontWeight:'700'}}>Proceedings Chair</span> at CoDS-COMAD 2023.</li>
                             <li><span style={{fontWeight:'700'}}>Area Chair:</span> ICLR 2022 Workshop on Geometrical and Topological Representation Learning (GTRL)</li>
-                            <li><span style={{fontWeight:'700'}}>Reviewer:</span> TKDE'20, NeurIPS'21, 22, 23, WACV'22, 23, AAAI'22, 23, ICLR'22, 23 CVPR'22, 23 ICML'22, 23 TPAMI'22, ACML'21, 22, ICVGIP'23</li>
-                            <li><span style={{fontWeight:'700'}}>Sub-Reviewer:</span> NeurIPS'19, NeurIPS'20, EMNLP'20, AAAI'21, ICML'21</li>
+                            <li><span style={{fontWeight:'700'}}>Reviewer:</span> AAAI, ICLR, CVPR, ICML, TKDE, NeurIPS, WACV, 3DV, TPAMI, TMLR, ACML, ICVGIP, ACL, EMNLP, ECAI, ECML, COLM</li>
                         </ul>
                     </div>
                 </div>
