@@ -13,6 +13,8 @@ function Contacts(){
                 <div className="sectionContainer othersContent">
                     <p>Awards/Grants</p>
                     <ul>
+                        <li>Faculty Research Grant from Fujitsu Research, 2024.</li>
+                        
                         <li>Faculty Research Grant from Fujitsu Research, 2023.</li>
 
                         <li>Start-Up Grant (for early career faculty) from SERB, 2022.</li>
