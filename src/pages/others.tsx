@@ -36,6 +36,8 @@ function Contacts(){
                     <p>&nbsp;</p>
                     <p>Invited Talks</p>
                     <ul>
+                        <li>Invited lecture on "Geometric Deep Learning for Graphs and 3D Point Clouds" at Technical Workshop during Paradox'24, IIT Madras (June 2024).</li>
+                        <li>Lectures on 3D Deep Learning at 3D Vision Summer School 2022, 2023 and 2024 by IIITH.</li>
                         <li>Expert Talk on "Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation" at Winter School of AI & TCS, IIT Jodhpur (11-12th Dec, 2023).</li>
                         <li>Talk on "Geometric Deep Learning for Graphs and Point Clouds" at SCIS, University of Hyderabad (9th Oct, 2023).</li>
                         <li>Experience talk at CODS-COMAD 2023 D & I track, IIT Bombay (6th January, 2023).</li>
