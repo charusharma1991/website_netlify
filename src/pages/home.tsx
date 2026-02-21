@@ -6,14 +6,14 @@ function Home(){
             <div className="homeContainerIntro">
                 <a><img src="IMG_20231102_182151.jpeg" alt="Charu-Sharma-Profile"/></a>
                 <p>
-                    I'm an Assistant Professor in <a href="https://mll.iiit.ac.in/"><strong>Machine Learning Lab</strong></a> at International Institute of Information Technology Hyderabad (IIIT-H). I lead 3D Graph & Geometry Lab at IIITH.
+                    I'm an Assistant Professor in <a href="https://mll.iiit.ac.in/"><strong>Machine Learning Lab</strong></a> at International Institute of Information Technology Hyderabad (IIIT-H). I lead <strong>3D Graph & Geometry</strong> Group at IIITH.
                     <br/><br/> As a PhD student, I have worked in <a href="https://krama.cse.iith.ac.in/index.html"><strong>Krama Lab</strong></a> under the guidance of <a href="https://manukaul.github.io/"><strong>Dr. Manohar Kaul</strong></a> in the department of Computer Science & Engineering at Indian Institute of Technology (IIT) Hyderabad.
                     <br/> I completed my M.Tech in Artificial Intelligence from University of Hyderabad under the guidance of Prof. Arun K. Pujari. Prior to this, I worked as a Junior Software Engineer under Prof. Deepak B. Phatak at Indian Institute of Technology (IIT) Bombay.
                     
                     My <strong>research interests</strong> include Geometric Machine/ Deep Learning: 3D Point Clouds, 3D scene understanding, 3D+LLM, Graph/Temporal Graphs/Knowledge Graph Representation Learning.
                 </p>
                 <p>&nbsp;</p>
-                '''<span style={{color:'blue'}}>I'm always looking for motivated PhD students. Write to me with your CV and cover letter.</span> <span style={{color:'red'}}>I'm not taking interns and part-time students.</span>'''
+                ```<span style={{color:'blue'}}>I'm always looking for motivated PhD students. Write to me with your CV and cover letter.</span> <span style={{color:'red'}}>I'm not taking interns and part-time students.</span>```
 
                 <p>
                     <strong style={{fontSize:'20px'}}>Recent!</strong>
