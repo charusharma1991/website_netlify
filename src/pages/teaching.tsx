@@ -14,24 +14,30 @@ function Teaching(){
                     <div>
                         <h3>Graduate level courses at IIIT Hyderabad:</h3>
                         <ol>
+                            <li>Computer Vision (Spring 2026)</li>
                             <li>Topics in Deep Learning (with a focus on Graph Representation Learning) (Spring 2022, Spring 2023, Spring 2024)</li>
                             <li>Software Systems Development (Monsoon 2021, Monsoon 2022, Monsoon 2023)</li>
                             <li>Computing Tools (Spring 2023)</li>
                             <li>SVM in SMAI course.</li>
                         </ol>
                         <p>&nbsp;</p>
+                        <h3>Induction Training Program on AIML for NHAI</h3>
+                        <ul>
+                            <li>Lectures on Foundations of Machine Learning, Deep Learning</li>
+                        </ul>
+                        <p>&nbsp;</p>
                         <h3>Two-week Executive Training Program on AIML</h3>
                         <ul>
                             <li>Lecture on "Introduction to ML Paradigms and Performance Metric"</li>
                         </ul>
                         <p>&nbsp;</p>
-                        <h3>3D Vision Summer School 2022, 2023 at IIIT Hyderabad:</h3>
+                        <h3>3D Vision Summer School 2022, 2023 at IIIT Hyderabad and 2024 at IIIT Bangalore:</h3>
                         <ol>
                             <li>Volumetric and Point Cloud Representation Learning</li>
                             <li>3D Deep Learning using Graphs and Meshes</li>
                         </ol>
                         <p>&nbsp;</p>
-                        <h3>Machine Learning for Chemistry and Drug Design Course at IIIT Hyderabad</h3>
+                        <h3>Machine Learning for Chemistry and Drug Design Course and ML4Science at IIIT Hyderabad</h3>
                         <ul>
                             <li>Lecture on "Deep Learning for (Molecular) Graphs"</li>
                         </ul>
