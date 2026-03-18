@@ -13,9 +13,6 @@ function Home(){
                     My <strong>research interests</strong> include Geometric Machine/ Deep Learning: 3D Point Clouds, 3D scene understanding, 3D+LLM, Graph/Temporal Graphs/Knowledge Graph Representation Learning.
                 </p>
                 <p>&nbsp;</p>
-                ```html
-                <!-- <span style={{color:'blue'}}>I'm always looking for motivated PhD students. Write to me with your CV and cover letter.</span> <span style={{color:'red'}}>I'm not taking interns and part-time students.</span> -->
-                ```
 
                 <p>
                     <strong style={{fontSize:'20px'}}>Recent!</strong>
