@@ -13,11 +13,17 @@ function Contacts(){
                 <div className="sectionContainer othersContent">
                     <p>Awards/Grants</p>
                     <ul>
-                        <li>Faculty Research Grant from Fujitsu Research, 2024.</li>
+                        <li>CARS grant by DRDO DYSL-AI lab for a project titled "Training Free Semantic Understanding in 3D Indoor Scenes", 2026-2028.</li>
                         
-                        <li>Faculty Research Grant from Fujitsu Research, 2023.</li>
+                        <li>BRNS (advisory body of BARC, DAE) grant for a project titled "AI-Driven Design and Generation of Novel Metal-Ligand Complexes", 2026-2029.</li>
+                        
+                        <li>Project SwaYaan – Capacity Building in Drone/UAS, 2026-2027</li>
+                    
+                        <li>Faculty Research Grant from Fujitsu Research, 2024-2025.</li>
+                        
+                        <li>Faculty Research Grant from Fujitsu Research, 2023-2024.</li>
 
-                        <li>Start-Up Grant (for early career faculty) from SERB, 2022.</li>
+                        <li>Start-Up Grant (for early career faculty) from SERB, 2022-2024.</li>
 
                         <li>Financial Assistance Award from NeurIPS, 2020.</li>
 
@@ -36,6 +42,9 @@ function Contacts(){
                     <p>&nbsp;</p>
                     <p>Invited Talks</p>
                     <ul>
+                        <li>Invited keynote lecture on "3D Scene Graph Generation" at a) SG4SI WACV Workshop (March 2026).</li>
+                        <li>Guest lectures on Foundations of Machine Learning, Deep Learning for Induction Training Program on AIML for NHAI (January 2026).</li>
+                        <li>Guest lectures on "Graph Neural Networks" in ML4Science Winter School and on “Neural Networks” in ACM India Winter School 2025: AI and Finance at IIIT Hyderabad (December 2025).</li>
                         <li>Invited lecture on "Geometric Deep Learning for Graphs and 3D Point Clouds" at Technical Workshop during Paradox'24, IIT Madras (June 2024).</li>
                         <li>Lectures on 3D Deep Learning at 3D Vision Summer School 2022, 2023 and 2024 by IIITH.</li>
                         <li>Expert Talk on "Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation" at Winter School of AI & TCS, IIT Jodhpur (11-12th Dec, 2023).</li>
