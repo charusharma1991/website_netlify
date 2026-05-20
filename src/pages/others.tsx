@@ -42,7 +42,7 @@ function Contacts(){
                     <p>&nbsp;</p>
                     <p>Invited Talks</p>
                     <ul>
-                        <li>Invited keynote lecture on "3D Scene Graph Generation" at a) SG4SI WACV Workshop (March 2026).</li>
+                        <li>Invited keynote lecture on "3D Scene Graph Generation" at SG4SI WACV Workshop (March 2026).</li>
                         <li>Guest lectures on Foundations of Machine Learning, Deep Learning for Induction Training Program on AIML for NHAI (January 2026).</li>
                         <li>Guest lectures on "Graph Neural Networks" in ML4Science Winter School and on “Neural Networks” in ACM India Winter School 2025: AI and Finance at IIIT Hyderabad (December 2025).</li>
                         <li>Invited lecture on "Geometric Deep Learning for Graphs and 3D Point Clouds" at Technical Workshop during Paradox'24, IIT Madras (June 2024).</li>
