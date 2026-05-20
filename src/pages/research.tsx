@@ -49,6 +49,9 @@ function Research(){
                         </div>
                         <p><span style={{fontWeight:'700', fontSize:'18px'}}>Services</span></p>
                         <ul>
+                            <li><span style={{fontWeight:'700'}}>UG Forum Chair</span> at IndoML 2026.</li>
+                            <li><span style={{fontWeight:'700'}}>Area Chair</span> at ICVGIP 2023, 2025.</li>
+                            <li><span style={{fontWeight:'700'}}>Workshop Chair</span> at ICVGIP 2025.</li>
                             <li><span style={{fontWeight:'700'}}>Proceedings Chair</span> at CoDS-COMAD 2023.</li>
                             <li><span style={{fontWeight:'700'}}>Area Chair:</span> ICLR 2022 Workshop on Geometrical and Topological Representation Learning (GTRL)</li>
                             <li><span style={{fontWeight:'700'}}>Reviewer:</span> AAAI, ICLR, CVPR, ICCV, ICML, TKDE, NeurIPS, ECCV, ACMMM, WACV, 3DV, LoG, TPAMI, TMLR, ACML, ICVGIP, ACL, EMNLP, ECAI, ECML, COLM</li>
