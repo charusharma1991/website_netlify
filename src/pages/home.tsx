@@ -18,7 +18,10 @@ function Home(){
                     <strong style={{fontSize:'20px'}}>Recent!</strong>
                 </p>
                 <ul>
+                    <li>October 2026: Recognised as Outstanding Reviewer for CVPR 2026.</li>
+                    <li>September 2026: ENACT got accepted at NeurIPS 2026.</li>
                     <li>April 2026: GENIE got accepted at TMLR and PatchPoison at CVPR Workshop 2026.</li>
+                    <li>March 2026: Sanjay received the IndiaAI fellowship for his MS thesis.</li>
                     <li>December 2025: Total 10 papers accepted in 2025. Please check "Research" tab.</li>
                     <li>December 2024: Paper titled "Higher Order Structures For Graph Explanations" accepted at AAAI 2025.</li>
                     <li>October 2024: Two papers accepted at WACV 2025.</li>
