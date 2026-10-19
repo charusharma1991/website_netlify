@@ -12,8 +12,9 @@ function Teaching(){
             <div className="section color-1">
                 <div className="sectionContainer TeachingContent">
                     <div>
-                        <h3>Graduate level courses at IIIT Hyderabad:</h3>
+                        <h3>Undergraduate/Graduate level courses at IIIT Hyderabad:</h3>
                         <ol>
+                            <li>Computer Programming (Monsoon 2026)</li>
                             <li>Computer Vision (Spring 2026)</li>
                             <li>Topics in Deep Learning (with a focus on Graph Representation Learning) (Spring 2022, Spring 2023, Spring 2024)</li>
                             <li>Software Systems Development (Monsoon 2021, Monsoon 2022, Monsoon 2023)</li>
